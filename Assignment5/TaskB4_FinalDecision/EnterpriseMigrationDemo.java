@@ -4,11 +4,7 @@ import java.io.BufferedReader;
 import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * Task B4 - Enterprise Migration Program & Final Persistence Decision
- * Student: Moksha Dude (192372374)
- */
+ 
 public class EnterpriseMigrationDemo {
 
     public static class MigrationReport {
